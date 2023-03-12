@@ -5,7 +5,7 @@ var imgi = 1
 var pingInterval = 100
 var pingUrl = "/cdn-cgi/trace"
 var respondTimeout = 1000
-var speedTimeout = 2000
+var speedTimeout = 6000
 
 var idn = 0
 var database = {}
