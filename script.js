@@ -4,8 +4,8 @@ var imgBytes = [117902, 1263924, 10914532]
 var imgi = 1
 var pingInterval = 100
 var pingUrl = "/cdn-cgi/trace"
-var respondTimeout = 4000
-var speedTimeout = 30000
+var respondTimeout = 1000
+var speedTimeout = 2000
 
 var idn = 0
 var database = {}
